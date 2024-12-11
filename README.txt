@@ -83,9 +83,3 @@ to run unit tests:
 5) Run the Unit Tests Execute the following command to run the test suite:
     python -m unittest tests/test_count_unique_names.py
 
-
-
-
-
-git config --global user.name "roeestoffmankiki"
-git config --global user.email "roee.stoffman@mail.huji.ac.il"
