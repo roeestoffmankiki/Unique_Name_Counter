@@ -74,8 +74,11 @@ to run unit tests:
     For Windows:
     ${env_path}\Scripts\activate
 
-3) Navigate to the Root Project Directory Make sure you are in the directory
-    containing the project files (Home_assignment/).
+3) Navigate to the Root Project Directory
+    Ensure you are in the root directory of the project (Home_assignment/)
+     before running any commands.  cd /path/to/Home_assignment
+     Note: The project will not run correctly if you are in a subdirectory like tests.
+      Always execute commands from the root directory.
 
 4) Install the Required Libraries Use the requirements.txt file to install dependencies:
     pip install -r requirements.txt
@@ -83,9 +86,3 @@ to run unit tests:
 5) Run the Unit Tests Execute the following command to run the test suite:
     python -m unittest tests/test_count_unique_names.py
 
-
-
-
-
-git config --global user.name "roeestoffmankiki"
-git config --global user.email "roee.stoffman@mail.huji.ac.il"

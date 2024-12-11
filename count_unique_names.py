@@ -4,8 +4,7 @@ from comparor import Comparor
 from nickname_handler import NicknameHandler
 from person import Person
 
-CSV_PATH = r"C:\Users\User\PycharmProjects\Home_assignment\names.csv"
-
+CSV_PATH = r"names.csv"
 
 INVALID_INPUT = "All fields should be filled"
 
