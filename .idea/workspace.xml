@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca8cc150-20e6-4162-98ab-aee99778681b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Home_assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_unique_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/name_matcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nickname_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person.py" afterDir="false" />
-    </list>
+    <list default="true" id="ca8cc150-20e6-4162-98ab-aee99778681b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,49 +29,124 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/Home_assignment&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_all_fields_with_nicknames_and_typos.executor": "Run",
+    "Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_different_individuals.executor": "Run",
+    "Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_exact_match.executor": "Run",
+    "Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_nickname_match.executor": "Run",
+    "Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_p1_p2_p1p3_p2p3.executor": "Run",
+    "Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_typo_in_last_name.executor": "Run",
+    "Python tests.Python tests in test_count_unique_names.py.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging main",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/names-counter-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests in test_count_unique_names.py">
+    <configuration name="Python tests for test_count_unique_names.TestCountUniqueNames.test_all_fields_with_nicknames_and_typos" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Home_assignment" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_count_unique_names.TestCountUniqueNames.test_all_fields_with_nicknames_and_typos&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_count_unique_names.TestCountUniqueNames.test_different_individuals" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Home_assignment" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_count_unique_names.TestCountUniqueNames.test_different_individuals&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_count_unique_names.TestCountUniqueNames.test_p1_p2_p1p3_p2p3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Home_assignment" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_count_unique_names.TestCountUniqueNames.test_p1_p2_p1p3_p2p3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_count_unique_names.TestCountUniqueNames.test_typo_in_last_name" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Home_assignment" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_count_unique_names.TestCountUniqueNames.test_typo_in_last_name&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_count_unique_names.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Home_assignment" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_count_unique_names.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_all_fields_with_nicknames_and_typos" />
+      <item itemvalue="Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_different_individuals" />
+      <item itemvalue="Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_p1_p2_p1p3_p2p3" />
+      <item itemvalue="Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_typo_in_last_name" />
+      <item itemvalue="Python tests.Python tests in test_count_unique_names.py" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.Python tests in test_count_unique_names.py" />
+        <item itemvalue="Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_all_fields_with_nicknames_and_typos" />
+        <item itemvalue="Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_p1_p2_p1p3_p2p3" />
+        <item itemvalue="Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_different_individuals" />
+        <item itemvalue="Python tests.Python tests for test_count_unique_names.TestCountUniqueNames.test_typo_in_last_name" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +169,7 @@
       <workItem from="1733587065870" duration="4582000" />
       <workItem from="1733752844383" duration="1766000" />
       <workItem from="1733819967842" duration="40992000" />
-      <workItem from="1733904660360" duration="305000" />
+      <workItem from="1733904660360" duration="11281000" />
     </task>
     <servers />
   </component>
@@ -113,6 +177,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Home_assignment$test.coverage" NAME="test Coverage Results" MODIFIED="1733867809200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Home_assignment$.coverage" NAME=" Coverage Results" MODIFIED="1733921233944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Home_assignment$test.coverage" NAME="test Coverage Results" MODIFIED="1733905373617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
